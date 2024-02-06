@@ -1,4 +1,4 @@
-function contains_duplicate(nums) {
+function containsDuplicate(nums) {
     seen = new Set();
 
     nums.arrays.forEach(element => {

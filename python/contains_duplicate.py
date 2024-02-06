@@ -1,4 +1,4 @@
-def contains_duplicate(nums):
+def containsDuplicate(nums):
     seen = set()
     for num in nums:
         if num in seen:
